@@ -1,0 +1,115 @@
+* {
+    margin: 0px;
+}
+
+body {
+   background-image: linear-gradient(blue,black);
+   overflow-x: hidden;
+  
+  
+}
+
+#title {
+    text-align: center;
+    color:  rgb(255, 255, 255);
+    font-family: monospace;
+    font-size: 50px;
+}
+
+#head {
+    margin-top: 10px;
+    padding: 20px;
+    background-color: rgba(20, 20, 20, 0);
+}
+
+#box {
+    padding: 20px;
+    background-color: rgb(20, 20, 20);
+    width: 20%;
+    position: relative;
+    left: 39%;
+    margin-bottom: 10%;
+    
+}
+
+#box:hover {
+    background-color: blue;
+    
+}
+   
+#footer {
+    padding: 60px;
+    background-color: rgb(20, 20, 20);
+    
+}
+
+#text {
+   
+    padding: 10px;
+    position: absolute;
+    right: 10%;
+    top: 45%;
+    font-size: 20px;
+    
+}
+
+.margin {
+    margin-top: 100px;
+}
+
+#video {
+    position: relative;
+    left: 30%;
+    
+}
+
+.text2 {
+    color: rgb(255, 255, 255);
+}
+
+#text3 {
+    color: white;
+    text-align: center;
+}
+
+#p1 {
+    padding: 10px;
+    position: absolute;
+    right: 10%;
+    top: 65%;
+    font-size: 20px;
+   
+}
+
+#p2 {
+    padding: 10px;
+    position: absolute;
+    right: 10%;
+    top: 85%;
+    font-size: 20px;
+   
+}
+
+#ig {
+    width: 50px;
+    height: 50px;
+}
+
+#twitter {
+    width: 50px;
+    height: 50px;
+}
+
+#youtube {
+    width: 50px;
+    height: 50px;
+}
+
+.textback {
+    background-image: linear-gradient( to right, rgba(255, 255, 255, 0.342), rgba(255, 255, 255, 0));
+}
+
+#image {
+   
+    z-index: 1;
+}
